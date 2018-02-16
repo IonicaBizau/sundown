@@ -25,7 +25,9 @@ yarn add sundown
 ```js
 const sundown = require("sundown");
 
+// Sunset today in Cluj-Napoca, Romania
 const sundownInCluj = sundown(new Date(), 46.7712, 23.6236)
+
 console.log(sundownInCluj)
 // { sunrise:
 //    { raw_time: [ 7, 28 ],
