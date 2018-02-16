@@ -1,0 +1,45 @@
+{
+  "name": "sundown",
+  "description": "Calculate sunset time for given date and coordinates.",
+  "keywords": [
+    "sundown",
+    "calculate",
+    "sunset",
+    "time",
+    "for",
+    "given",
+    "date",
+    "and",
+    "coordinates"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/sundown#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/sundown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/sundown/issues"
+  }
+}
