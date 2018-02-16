@@ -1,6 +1,6 @@
 {
   "name": "sundown",
-  "description": "Calculate sunset time for given date and coordinates.",
+  "description": "Calculate sunrise and sunset times for a given date and location.",
   "keywords": [
     "sundown",
     "calculate",
